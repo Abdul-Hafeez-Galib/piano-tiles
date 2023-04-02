@@ -8,7 +8,10 @@ This is a desktop version (supported on all OS) of the Piano Tiles Game that was
 2. [Hani Roshan CK](https://github.com/hani-2020)
 
 ## Deployed Link
+https://www.mediafire.com/file/wk55s2jkx73hm1p/piano-tiles.zip/file
 
+Extract the zip file.
+Click on piano-tiles.exe
 
 ## Link to product walkthrough
 [link to video]
