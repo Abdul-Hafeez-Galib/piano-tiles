@@ -11,6 +11,7 @@ This is a desktop version (supported on all OS) of the Piano Tiles Game that was
 https://www.mediafire.com/file/wk55s2jkx73hm1p/piano-tiles.zip/file
 
 Extract the zip file.
+
 Click on piano-tiles.exe
 
 ## Link to product walkthrough
