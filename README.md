@@ -1,4 +1,4 @@
-![Saturday HackNight](https://user-images.githubusercontent.com/64391274/219694678-8f1a2829-b0b2-41de-9152-4c4a4e43c2d5.png)
+![Pygame GIthub](https://user-images.githubusercontent.com/64391274/229285417-80d68655-4282-4a33-87a2-20723c8dfcb0.png)
 
 # Piano-Tiles
 This is a desktop version (supported on all OS) of the Piano Tiles Game that was built using Pygame. You can challenge your friends to beat your score and it is a competitive game. Enjoy Playing 😉.
