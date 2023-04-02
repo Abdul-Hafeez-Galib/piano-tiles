@@ -7,7 +7,7 @@ This is a desktop version (supported on all OS) of the Piano Tiles Game that was
 1. [Abdul Hafeez Galib](https://github.com/Abdul-Hafeez-Galib)
 2. [Hani Roshan CK](https://github.com/hani-2020)
 
-## Deployed Link
+## Download Link
 https://www.mediafire.com/file/wk55s2jkx73hm1p/piano-tiles.zip/file
 
 Extract the zip file.
