@@ -14,7 +14,7 @@ Extract the zip file.
 Click on piano-tiles.exe
 
 ## Link to product walkthrough
-[link to video]
+[Piano-Tiles Demo-Video](https://www.loom.com/share/02e0bfa766434caf8e3371002e12d778)
 
 ## How it Works ?
 Like Normal Mobile App of Piano Tiles.
